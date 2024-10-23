@@ -22,7 +22,7 @@ PLAYER_SHIP = pygame.image.load(os.path.join("assets", "Player_1.png"))
 
 # Bullets 
 # Player
-PLAYER_LASER = pygame.image.load(os.path.join("assets", "player_laser.png"))
+PLAYER_LASER = pygame.image.load(os.path.join("assets", "Player_Laser.png"))
 
 # Enemies
 MISSILE_GREEN = pygame.image.load(os.path.join("assets", "Missile_1.png"))
